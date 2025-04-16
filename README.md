@@ -1,3 +1,6 @@
 ## Hi there 👋
 
-![TryHackMe] <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1350479" style='border:none;'></iframe>
+## 🧠 My TryHackMe Badge
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1350479.png)](https://tryhackme.com/p/1350479)
+
